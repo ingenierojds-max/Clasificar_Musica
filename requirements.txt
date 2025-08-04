@@ -1,4 +1,5 @@
 fastapi
 uvicorn
 mutagen
+python-multipart
 
